@@ -1,0 +1,4 @@
+form.mceButtonNormal{border: 1px solid #F0F0EE;background:transparent url("../img/prostoupload.png") no-repeat 2px 2px;}
+form.mceButtonNormal:hover{border: 1px solid #0A246A; background-color: #B6BDD2;}
+a.mceButtonDisabled+form{-moz-opacity:0.3; opacity: 0.3; border: 1px solid #F0F0EE!important;background-color:transparent!important;}
+a.mce_prostoupload img{display:none!important;}
