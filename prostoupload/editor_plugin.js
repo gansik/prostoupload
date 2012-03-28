@@ -1,6 +1,6 @@
 /**
  * @author Gansik (http://gansik.tagv.com)
- * @license 
+ * @license
  */
 
 (function() {
@@ -152,7 +152,7 @@
 				author : 'Gansik',
 				authorurl : 'http://gansik.tagv.com',
 				infourl : '',
-				version : "0.1"
+				version : "0.2"
 			};
 		}
 	});
