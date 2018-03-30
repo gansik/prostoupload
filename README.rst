@@ -89,12 +89,12 @@ Source
 
 The source is available in a git repository at github::
 
-	git://github.com/Gansik/prostoupload.git
+	git clone git@github.com:gansik/prostoupload.git
 
 Issue tracker
 -------------
 
-https://github.com/Gansik/prostoupload/issues
+https://github.com/gansik/prostoupload/issues
 
 Distribution
 ------------
